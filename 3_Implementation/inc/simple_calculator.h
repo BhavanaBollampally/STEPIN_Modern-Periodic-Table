@@ -50,6 +50,7 @@ int factorial();
 /**
 *Factorial of a given number
 */
+#endif
 
 
 
