@@ -1,4 +1,4 @@
-#include<simple_calculator>
+#include<simple_calculator.h>
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
