@@ -1,4 +1,2 @@
-# Requirements
-Calculate the arithmetic operations like addition,substraction,multiplication and division
-Calculate factorial,modulus and power functions
-Calculator Operations
+[README.md](https://github.com/BhavanaBollampally/STEPIN_Simple-Calculator/files/7127422/README.md)
+
